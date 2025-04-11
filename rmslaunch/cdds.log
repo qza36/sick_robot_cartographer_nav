@@ -1,0 +1,144 @@
+1744255529.689673 [0]      rviz2: config: Domain/General/MulticastRecvNetworkInterfaceAddresses/#text: preferred {}
+1744255529.689687 [0]      rviz2: config: Domain/General/Interfaces/NetworkInterface[@autodetermine]: false {}
+1744255529.689693 [0]      rviz2: config: Domain/General/Interfaces/NetworkInterface[@name]: (null) {}
+1744255529.689697 [0]      rviz2: config: Domain/General/Interfaces/NetworkInterface[@address]: 192.168.192.110 {}
+1744255529.689700 [0]      rviz2: config: Domain/General/Interfaces/NetworkInterface[@priority]: default {}
+1744255529.689705 [0]      rviz2: config: Domain/General/Interfaces/NetworkInterface[@prefer_multicast]: false {}
+1744255529.689707 [0]      rviz2: config: Domain/General/Interfaces/NetworkInterface[@presence_required]: true {}
+1744255529.689712 [0]      rviz2: config: Domain/General/Interfaces/NetworkInterface[@multicast]: default {}
+1744255529.689716 [0]      rviz2: config: Domain/General/ExternalNetworkAddress/#text: auto {}
+1744255529.689721 [0]      rviz2: config: Domain/General/ExternalNetworkMask/#text: 0.0.0.0 {}
+1744255529.689723 [0]      rviz2: config: Domain/General/AllowMulticast/#text: default {}
+1744255529.689728 [0]      rviz2: config: Domain/General/MulticastTimeToLive/#text: 32 {}
+1744255529.689731 [0]      rviz2: config: Domain/General/DontRoute/#text: false {}
+1744255529.689735 [0]      rviz2: config: Domain/General/Transport/#text: udp {}
+1744255529.689738 [0]      rviz2: config: Domain/General/EnableMulticastLoopback/#text: true {}
+1744255529.689742 [0]      rviz2: config: Domain/General/MaxMessageSize/#text: 14720 B {}
+1744255529.689747 [0]      rviz2: config: Domain/General/MaxRexmitMessageSize/#text: 1456 B {}
+1744255529.689750 [0]      rviz2: config: Domain/General/FragmentSize/#text: 1344 B {}
+1744255529.689754 [0]      rviz2: config: Domain/General/RedundantNetworking/#text: false {}
+1744255529.689757 [0]      rviz2: config: Domain/General/EntityAutoNaming/#text: empty {}
+1744255529.689761 [0]      rviz2: config: Domain/General/EntityAutoNaming[@seed]: 122518705 3768406259 707631120 4196122195 771360572 2940027241 3813503075 1304231346 {}
+1744255529.689766 [0]      rviz2: config: Domain/Sizing/ReceiveBufferSize/#text: 1 MiB {}
+1744255529.689770 [0]      rviz2: config: Domain/Sizing/ReceiveBufferChunkSize/#text: 128 KiB {}
+1744255529.689774 [0]      rviz2: config: Domain/Compatibility/StandardsConformance/#text: lax {}
+1744255529.689778 [0]      rviz2: config: Domain/Compatibility/ExplicitlyPublishQosSetToDefault/#text: false {}
+1744255529.689782 [0]      rviz2: config: Domain/Compatibility/ManySocketsMode/#text: single {}
+1744255529.689786 [0]      rviz2: config: Domain/Compatibility/AssumeRtiHasPmdEndpoints/#text: false {}
+1744255529.689789 [0]      rviz2: config: Domain/Discovery/Tag/#text:  {}
+1744255529.689794 [0]      rviz2: config: Domain/Discovery/ExternalDomainId/#text: 0 {}
+1744255529.689798 [0]      rviz2: config: Domain/Discovery/DSGracePeriod/#text: 30 s {}
+1744255529.689802 [0]      rviz2: config: Domain/Discovery/ParticipantIndex/#text: none {}
+1744255529.689806 [0]      rviz2: config: Domain/Discovery/MaxAutoParticipantIndex/#text: 9 {}
+1744255529.689810 [0]      rviz2: config: Domain/Discovery/SPDPMulticastAddress/#text: 239.255.0.1 {}
+1744255529.689814 [0]      rviz2: config: Domain/Discovery/SPDPInterval/#text: 30 s {}
+1744255529.689818 [0]      rviz2: config: Domain/Discovery/DefaultMulticastAddress/#text: auto {}
+1744255529.689823 [0]      rviz2: config: Domain/Discovery/Ports/Base/#text: 7400 {}
+1744255529.689826 [0]      rviz2: config: Domain/Discovery/Ports/DomainGain/#text: 250 {}
+1744255529.689831 [0]      rviz2: config: Domain/Discovery/Ports/ParticipantGain/#text: 2 {}
+1744255529.689835 [0]      rviz2: config: Domain/Discovery/Ports/MulticastMetaOffset/#text: 0 {}
+1744255529.689839 [0]      rviz2: config: Domain/Discovery/Ports/UnicastMetaOffset/#text: 10 {}
+1744255529.689843 [0]      rviz2: config: Domain/Discovery/Ports/MulticastDataOffset/#text: 1 {}
+1744255529.689846 [0]      rviz2: config: Domain/Discovery/Ports/UnicastDataOffset/#text: 11 {}
+1744255529.689855 [0]      rviz2: config: Domain/Discovery/EnableTopicDiscoveryEndpoints/#text: false {}
+1744255529.689859 [0]      rviz2: config: Domain/Discovery/LeaseDuration/#text: 10 s {}
+1744255529.689869 [0]      rviz2: config: Domain/Tracing/Category/#text: fatal,error,warning,info,config {1}
+1744255529.689873 [0]      rviz2: config: Domain/Tracing/OutputFile/#text: cdds.log {1}
+1744255529.689877 [0]      rviz2: config: Domain/Tracing/AppendToFile/#text: false {}
+1744255529.689881 [0]      rviz2: config: Domain/Tracing/PacketCaptureFile/#text:  {}
+1744255529.689886 [0]      rviz2: config: Domain/Internal/DeliveryQueueMaxSamples/#text: 256 {}
+1744255529.689890 [0]      rviz2: config: Domain/Internal/PrimaryReorderMaxSamples/#text: 128 {}
+1744255529.689894 [0]      rviz2: config: Domain/Internal/SecondaryReorderMaxSamples/#text: 128 {}
+1744255529.689899 [0]      rviz2: config: Domain/Internal/DefragUnreliableMaxSamples/#text: 4 {}
+1744255529.689902 [0]      rviz2: config: Domain/Internal/DefragReliableMaxSamples/#text: 16 {}
+1744255529.689907 [0]      rviz2: config: Domain/Internal/BuiltinEndpointSet/#text: writers {}
+1744255529.689910 [0]      rviz2: config: Domain/Internal/MeasureHbToAckLatency/#text: false {}
+1744255529.689914 [0]      rviz2: config: Domain/Internal/UnicastResponseToSPDPMessages/#text: true {}
+1744255529.689919 [0]      rviz2: config: Domain/Internal/SynchronousDeliveryPriorityThreshold/#text: 0 {}
+1744255529.689922 [0]      rviz2: config: Domain/Internal/SynchronousDeliveryLatencyBound/#text: inf {}
+1744255529.689926 [0]      rviz2: config: Domain/Internal/MaxParticipants/#text: 0 {}
+1744255529.689931 [0]      rviz2: config: Domain/Internal/AccelerateRexmitBlockSize/#text: 0 {}
+1744255529.689934 [0]      rviz2: config: Domain/Internal/RetransmitMerging/#text: never {}
+1744255529.689938 [0]      rviz2: config: Domain/Internal/RetransmitMergingPeriod/#text: 5 ms {}
+1744255529.689943 [0]      rviz2: config: Domain/Internal/HeartbeatInterval/#text: 100 ms {}
+1744255529.689947 [0]      rviz2: config: Domain/Internal/HeartbeatInterval[@min]: 5 ms {}
+1744255529.689951 [0]      rviz2: config: Domain/Internal/HeartbeatInterval[@minsched]: 20 ms {}
+1744255529.689956 [0]      rviz2: config: Domain/Internal/HeartbeatInterval[@max]: 8 s {}
+1744255529.689959 [0]      rviz2: config: Domain/Internal/MaxQueuedRexmitBytes/#text: 512 KiB {}
+1744255529.689963 [0]      rviz2: config: Domain/Internal/MaxQueuedRexmitMessages/#text: 200 {}
+1744255529.689967 [0]      rviz2: config: Domain/Internal/WriterLingerDuration/#text: 1 s {}
+1744255529.689971 [0]      rviz2: config: Domain/Internal/SocketReceiveBufferSize[@min]: default {}
+1744255529.689975 [0]      rviz2: config: Domain/Internal/SocketReceiveBufferSize[@max]: default {}
+1744255529.689979 [0]      rviz2: config: Domain/Internal/SocketSendBufferSize[@min]: 64 KiB {}
+1744255529.689984 [0]      rviz2: config: Domain/Internal/SocketSendBufferSize[@max]: default {}
+1744255529.689988 [0]      rviz2: config: Domain/Internal/NackDelay/#text: 100 ms {}
+1744255529.689991 [0]      rviz2: config: Domain/Internal/AckDelay/#text: 10 ms {}
+1744255529.689996 [0]      rviz2: config: Domain/Internal/AutoReschedNackDelay/#text: 3 s {}
+1744255529.690000 [0]      rviz2: config: Domain/Internal/PreEmptiveAckDelay/#text: 10 ms {}
+1744255529.690003 [0]      rviz2: config: Domain/Internal/ScheduleTimeRounding/#text: 0 s {}
+1744255529.690008 [0]      rviz2: config: Domain/Internal/DDSI2DirectMaxThreads/#text: 1 {}
+1744255529.690011 [0]      rviz2: config: Domain/Internal/SquashParticipants/#text: false {}
+1744255529.690016 [0]      rviz2: config: Domain/Internal/SPDPResponseMaxDelay/#text: 0 s {}
+1744255529.690020 [0]      rviz2: config: Domain/Internal/LateAckMode/#text: false {}
+1744255529.690023 [0]      rviz2: config: Domain/Internal/RetryOnRejectBestEffort/#text: false {}
+1744255529.690027 [0]      rviz2: config: Domain/Internal/GenerateKeyhash/#text: false {}
+1744255529.690032 [0]      rviz2: config: Domain/Internal/MaxSampleSize/#text: 2147483647 B {}
+1744255529.690035 [0]      rviz2: config: Domain/Internal/LivelinessMonitoring/#text: false {}
+1744255529.690042 [0]      rviz2: config: Domain/Internal/LivelinessMonitoring[@StackTraces]: true {}
+1744255529.690047 [0]      rviz2: config: Domain/Internal/LivelinessMonitoring[@Interval]: 1 s {}
+1744255529.690052 [0]      rviz2: config: Domain/Internal/MonitorPort/#text: -1 {}
+1744255529.690055 [0]      rviz2: config: Domain/Internal/PrioritizeRetransmit/#text: true {}
+1744255529.690060 [0]      rviz2: config: Domain/Internal/UseMulticastIfMreqn/#text: 0 {}
+1744255529.690064 [0]      rviz2: config: Domain/Internal/RediscoveryBlacklistDuration/#text: 0 s {}
+1744255529.690068 [0]      rviz2: config: Domain/Internal/RediscoveryBlacklistDuration[@enforce]: false {}
+1744255529.690072 [0]      rviz2: config: Domain/Internal/MultipleReceiveThreads/#text: default {}
+1744255529.690077 [0]      rviz2: config: Domain/Internal/MultipleReceiveThreads[@maxretries]: 4294967295 {}
+1744255529.690081 [0]      rviz2: config: Domain/Internal/Test/XmitLossiness/#text: 0 {}
+1744255529.690086 [0]      rviz2: config: Domain/Internal/Watermarks/WhcLow/#text: 1 KiB {}
+1744255529.690090 [0]      rviz2: config: Domain/Internal/Watermarks/WhcHigh/#text: 500 KiB {}
+1744255529.690095 [0]      rviz2: config: Domain/Internal/Watermarks/WhcHighInit/#text: 30 KiB {}
+1744255529.690098 [0]      rviz2: config: Domain/Internal/Watermarks/WhcAdaptive/#text: true {}
+1744255529.690103 [0]      rviz2: config: Domain/Internal/BurstSize/MaxRexmit/#text: 1 MiB {}
+1744255529.690106 [0]      rviz2: config: Domain/Internal/BurstSize/MaxInitTransmit/#text: 4294967295 {}
+1744255529.690111 [0]      rviz2: config: Domain/Internal/EnableExpensiveChecks/#text:  {}
+1744255529.690116 [0]      rviz2: config: Domain/TCP/NoDelay/#text: true {}
+1744255529.690119 [0]      rviz2: config: Domain/TCP/Port/#text: -1 {}
+1744255529.690123 [0]      rviz2: config: Domain/TCP/ReadTimeout/#text: 2 s {}
+1744255529.690128 [0]      rviz2: config: Domain/TCP/WriteTimeout/#text: 2 s {}
+1744255529.690131 [0]      rviz2: config: Domain/TCP/AlwaysUsePeeraddrForUnicast/#text: false {}
+1744255529.690136 [0]      rviz2: config: Domain/SSL/Enable/#text: false {}
+1744255529.690140 [0]      rviz2: config: Domain/SSL/CertificateVerification/#text: true {}
+1744255529.690144 [0]      rviz2: config: Domain/SSL/VerifyClient/#text: true {}
+1744255529.690148 [0]      rviz2: config: Domain/SSL/SelfSignedCertificates/#text: false {}
+1744255529.690153 [0]      rviz2: config: Domain/SSL/KeystoreFile/#text: keystore {}
+1744255529.690156 [0]      rviz2: config: Domain/SSL/KeyPassphrase/#text: secret {}
+1744255529.690160 [0]      rviz2: config: Domain/SSL/Ciphers/#text: ALL:!ADH:!LOW:!EXP:!MD5:@STRENGTH {}
+1744255529.690165 [0]      rviz2: config: Domain/SSL/EntropyFile/#text:  {}
+1744255529.690169 [0]      rviz2: config: Domain/SSL/MinimumTLSVersion/#text: 1.3 {}
+1744255529.690173 [0]      rviz2: config: Domain/SharedMemory/Enable/#text: false {}
+1744255529.690178 [0]      rviz2: config: Domain/SharedMemory/Locator/#text:  {}
+1744255529.690181 [0]      rviz2: config: Domain/SharedMemory/Prefix/#text: DDS_CYCLONE {}
+1744255529.690185 [0]      rviz2: config: Domain/SharedMemory/LogLevel/#text: info {}
+1744255529.690189 [0]      rviz2: config: Domain[@Id]: 0 {}
+1744255529.690225 [0]      rviz2: started at 1744255529.06690198 -- 2025-04-10 11:25:29+08:00
+1744255529.690233 [0]      rviz2: udp initialized
+1744255529.690468 [0]      rviz2: interfaces: lo udp/127.0.0.1(q1) enp5s0 udp/192.168.192.110(q9) wlp4s0 wireless udp/192.168.1.209(q9)
+1744255529.690489 [0]      rviz2: selected interfaces: enp5s0 (index 2 priority 0)
+1744255529.690493 [0]      rviz2: presumed robust multicast support, use for everything
+1744255529.690499 [0]      rviz2: ownip: udp/192.168.192.110
+1744255529.690503 [0]      rviz2: extmask: invalid/0 (not applicable)
+1744255529.690508 [0]      rviz2: SPDP MC: udp/239.255.0.1
+1744255529.690511 [0]      rviz2: default MC: udp/239.255.0.1
+1744255529.690514 [0]      rviz2: SSM support included
+1744255529.690636 [0]      rviz2: failed to increase socket receive buffer size to 1048576 bytes, continuing with 425984 bytes
+1744255529.690654 [0]      rviz2: rtps_init: uc ports: disc 0 data 0
+1744255529.690657 [0]      rviz2: rtps_init: domainid 0 participantid -2
+1744255529.690661 [0]      rviz2: Unicast Ports: discovery 56117 data 56117
+1744255529.690672 [0]      rviz2: failed to increase socket receive buffer size to 1048576 bytes, continuing with 425984 bytes
+1744255529.690685 [0]      rviz2: failed to increase socket receive buffer size to 1048576 bytes, continuing with 425984 bytes
+1744255529.690691 [0]      rviz2: Multicast Ports: discovery 7400 data 7401 
+1744255529.690699 [0]      rviz2: failed to increase socket receive buffer size to 1048576 bytes, continuing with 425984 bytes
+1744255529.690707 [0]      rviz2: interface enp5s0: transmit port 45332
+1744261153.355958 [0] cartograph: udp finalized
+1744261153.356037 [0] cartograph: Finis.
+
